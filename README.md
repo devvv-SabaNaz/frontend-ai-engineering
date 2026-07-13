@@ -18,3 +18,9 @@ This repository contains my assignments, practice work, and projects for the Fly
 
 ## Goal
 My goal is to improve my frontend development skills while learning how to use AI tools responsibly.
+## Repository Structure
+
+- README.md
+- CLAUDE.md
+- LICENSE
+- .gitignore
